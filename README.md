@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @xxvlrapss
-- 👀 I’m interested in Back-end engineering - Cloud Computing 
+- Data Analyst
+
 
 <!---
 xxvlrapss/xxvlrapss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
