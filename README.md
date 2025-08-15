@@ -41,12 +41,12 @@ My approach combines **technical skills** in data manipulation, visualization, a
 - Built a machine learning model using **Logistic Regression** & **Random Forest** to detect fraudulent transactions.
 - Achieved **97% accuracy** on test data.
 - Tools: Python, Pandas, Scikit-learn, Matplotlib  
-  [![Dashboard Preview](images/dashboard-preview.png)](https://public.tableau.com/views/Visualisasi_Analysis_CreditCardFraudDetectionMLGULB/Dashboard1?:showVizHome=no&:embed=true)
+- [![Dashboard Preview](images/dashboard-preview.png)](https://public.tableau.com/views/Visualisasi_Analysis_CreditCardFraudDetectionMLGULB/Dashboard1?:showVizHome=no&:embed=true)
 
 ### 2. **E-Commerce Customer Review Analysis**
 - Created interactive dashboards to visualize sentiment trends.
-- Tools: Python, Tableau  
-  [![Dashboard Preview](path/to/preview-image.png)](https://public.tableau.com/views/Visualisasi_WomensE-commerceClothing/Dashboard-Women-Ecommerce?:showVizHome=no&:embed=true)
+- Tools: Python, Tableau
+- [![Dashboard Preview](path/to/preview-image.png)](https://public.tableau.com/views/Visualisasi_WomensE-commerceClothing/Dashboard-Women-Ecommerce?:showVizHome=no&:embed=true)
 
 ---
 
