@@ -47,7 +47,7 @@ My approach combines **technical skills** in data manipulation, visualization, a
 - Performed sentiment analysis on customer reviews using **Naïve Bayes Classifier**.
 - Created interactive dashboards to visualize sentiment trends.
 - Tools: Python, NLTK, Power BI  
-[🔗 View Repository](#)
+[🔗  [View Repositoryhttps:[//public.tableau.com/app/profile/dimas.prayoga7117/viz/Visualisasi_WomensE-commerceClothing/Dashboard-Women-Ecommerce](https://public.tableau.com/views/Visualisasi_WomensE-commerceClothing/Dashboard-Women-Ecommerce?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](#)
 
 ### 3. **Sales Performance Dashboard**
 - Designed a **Power BI** dashboard tracking KPIs like revenue growth, conversion rate, and customer acquisition.
