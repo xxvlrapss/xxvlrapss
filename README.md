@@ -25,7 +25,7 @@ My approach combines **technical skills** in data manipulation, visualization, a
 **Data Handling & Storage**
 - Excel (Advanced Formulas, PivotTables, Power Query)
 - Google Sheets
-- Data Warehouse (Snowflake, BigQuery)
+- Data Warehouse (BigQuery)
 
 **Others**
 - Statistics & Hypothesis Testing
