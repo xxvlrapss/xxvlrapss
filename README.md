@@ -39,20 +39,14 @@ My approach combines **technical skills** in data manipulation, visualization, a
 
 ### 1. **Credit Card Fraud Detection**
 - Built a machine learning model using **Logistic Regression** & **Random Forest** to detect fraudulent transactions.
-- Achieved **96% accuracy** on test data.
+- Achieved **97% accuracy** on test data.
 - Tools: Python, Pandas, Scikit-learn, Matplotlib  
-[🔗 View Repository](#)
+[![Dashboard Preview](images/dashboard-preview.png)](https://public.tableau.com/views/Visualisasi_Analysis_CreditCardFraudDetectionMLGULB/Dashboard1?:showVizHome=no&:embed=true)
 
 ### 2. **E-Commerce Customer Review Analysis**
-- Performed sentiment analysis on customer reviews using **Naïve Bayes Classifier**.
 - Created interactive dashboards to visualize sentiment trends.
-- Tools: Python, NLTK, Power BI  
-[🔗  [View Repositoryhttps:[//public.tableau.com/app/profile/dimas.prayoga7117/viz/Visualisasi_WomensE-commerceClothing/Dashboard-Women-Ecommerce](https://public.tableau.com/views/Visualisasi_WomensE-commerceClothing/Dashboard-Women-Ecommerce?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](#)
-
-### 3. **Sales Performance Dashboard**
-- Designed a **Power BI** dashboard tracking KPIs like revenue growth, conversion rate, and customer acquisition.
-- Helped stakeholders identify top-performing products and regions.
-[🔗 View Repository](#)
+- Tools: Python, Tableau  
+[![Dashboard Preview](path/to/preview-image.png)](https://public.tableau.com/views/Visualisasi_WomensE-commerceClothing/Dashboard-Women-Ecommerce?:showVizHome=no&:embed=true)
 
 ---
 
