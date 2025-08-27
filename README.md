@@ -39,23 +39,6 @@ My approach combines **technical skills** in data manipulation, visualization, a
 
 ---
 
-## 📂 Featured Projects  
-
-### 1. 💳 **Credit Card Fraud Detection**  
-- Built a machine learning model using **Logistic Regression** & **Random Forest** to detect fraudulent transactions.  
-- Achieved **97% accuracy** on test data.  
-- **Tools**: Python, Pandas, Scikit-learn, Matplotlib  
-- 📊 [Interactive Dashboard](https://public.tableau.com/views/Visualisasi_Analysis_CreditCardFraudDetectionMLGULB/Dashboard1)  
-
----
-
-### 2. 🛍️ **E-Commerce Customer Review Analysis**  
-- Created interactive dashboards to visualize sentiment trends.  
-- **Tools**: Python, Tableau  
-- 📊 [Interactive Dashboard](https://public.tableau.com/views/Visualisasi_WomensE-commerceClothing/Dashboard-Women-Ecommerce)  
-
----
-
 ## 📊 My Workflow as a Data Analyst  
 
 1. 🧭 **Business Understanding** – Define the problem & KPIs with stakeholders.  
