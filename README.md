@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=00BFA6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Dimas+Prayoga+%F0%9F%91%8B;Data+Analyst+%7C+Business+Insight+Explorer+%7C+Problem+Solver;Turning+Data+into+Business+Impact" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/xxvlrapss?style=for-the-badge&logo=github&label=Followers&color=0A84FF" />
+  <img src="https://img.shields.io/github/stars/xxvlrapss?style=for-the-badge&logo=github&label=Stars&color=00BFA6&affiliations=OWNER" />
+</p>
+
 ---
 
 # Hi there, I'm Dimas Prayoga 👋  
@@ -49,6 +54,13 @@ My approach combines **technical skills** in data manipulation, visualization, a
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
 
+## 🏆 GitHub Trophy (animated-like)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xxvlrapss&theme=onestar&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+---
+
 ## 📊 My Workflow as a Data Analyst  
 
 1. 🧭 **Business Understanding** – Define the problem & KPIs with stakeholders.  
@@ -73,6 +85,13 @@ My approach combines **technical skills** in data manipulation, visualization, a
 
 ---
 
+## 📈 Contribution Activity (graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxvlrapss&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dimas%20Prayoga-blue?logo=linkedin)](https://www.linkedin.com/in/dimas-prayogaa/)  
@@ -87,7 +106,7 @@ My approach combines **technical skills** in data manipulation, visualization, a
 
 ---
 
-<!-- 🐍 Snake Animation (aktifkan GitHub Action dulu) -->
+<!-- 🐍 Snake Animation (optional: requires workflow, see note below) -->
 <!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/xxvlrapss/xxvlrapss/output/snake.svg" alt="snake animation"/>
