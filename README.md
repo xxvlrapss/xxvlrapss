@@ -1,9 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=00BFA6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Dimas+Prayoga+%F0%9F%91%8B;Data+Analyst+%7C+Business+Insight+Explorer+%7C+Problem+Solver;Turning+Data+into+Business+Impact" alt="Typing SVG" />
+</p>
+
+---
+
 # Hi there, I'm Dimas Prayoga 👋  
 **📊 Data Analyst | 🔍 Business Insight Explorer | ⚡ Data-Driven Problem Solver**
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=00BFA6&center=true&vCenter=true&width=700&lines=Dimas+Prayoga+%7C+Data+Analyst;Turning+data+into+business+impact;EDA+%7C+BI+Dashboard+%7C+ML+Basics" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -14,6 +16,8 @@ My approach combines **technical skills** in data manipulation, visualization, a
 💡 *"Data without context is just numbers — I make it tell a story."*  
 
 ---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
 
 ## 🛠 Skills & Tools  
 
@@ -43,6 +47,8 @@ My approach combines **technical skills** in data manipulation, visualization, a
 
 ---
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
+
 ## 📊 My Workflow as a Data Analyst  
 
 1. 🧭 **Business Understanding** – Define the problem & KPIs with stakeholders.  
@@ -54,6 +60,19 @@ My approach combines **technical skills** in data manipulation, visualization, a
 
 ---
 
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xxvlrapss&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxvlrapss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=xxvlrapss&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dimas%20Prayoga-blue?logo=linkedin)](https://www.linkedin.com/in/dimas-prayogaa/)  
@@ -61,6 +80,19 @@ My approach combines **technical skills** in data manipulation, visualization, a
 [![Email](https://img.shields.io/badge/Email-dimassprayoga08%40gmail.com-red?logo=gmail)](mailto:dimassprayoga08@gmail.com)  
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xxvlrapss&label=Profile%20Views&color=00bfa6&style=flat-square" alt="profile views" />
+</p>
+
+---
+
+<!-- 🐍 Snake Animation (aktifkan GitHub Action dulu) -->
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xxvlrapss/xxvlrapss/output/snake.svg" alt="snake animation"/>
+</p>
+-->
 
 💡 *"In God we trust, all others bring data." – W. Edwards Deming*  
 🔥 *Fortis Fortuna Adiuvat*  
