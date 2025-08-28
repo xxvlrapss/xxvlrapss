@@ -22,8 +22,6 @@ My approach combines **technical skills** in data manipulation, visualization, a
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
-
 ## 🛠 Skills & Tools  
 
 ### 👨‍💻 Programming & Data Analysis  
