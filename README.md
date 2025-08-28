@@ -1,66 +1,41 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=00BFA6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Dimas+Prayoga+%F0%9F%91%8B;Data+Analyst+%7C+Business+Insight+Explorer+%7C+Problem+Solver;Turning+Data+into+Business+Impact" alt="Typing SVG" />
-</p>
-
----
-
-# Hi there, I'm Dimas Prayoga 👋  
-**📊 Data Analyst | 🔍 Business Insight Explorer | ⚡ Data-Driven Problem Solver**
+<h1 align="center">Hi 👋, I'm Dimas Prayoga</h1>
+<h3 align="center">📊 Data Analyst | 🔍 Business Insight Explorer | ⚡ Data-Driven Problem Solver</h3>
 
 ---
 
 ## 🚀 About Me  
-I’m a passionate **Data Analyst** with strong expertise in turning raw data into actionable insights that drive business decisions.  
-My approach combines **technical skills** in data manipulation, visualization, and analytics with a **business-oriented mindset**, ensuring that every analysis answers real-world questions.  
 
+🌱 I’m passionate about **turning raw data into actionable insights** that help businesses make smarter decisions.  
 💡 *"Data without context is just numbers — I make it tell a story."*  
+🎯 Interested in **Data Analytics, Business Intelligence, and Applied Machine Learning**.  
+📊 Skilled at **EDA, Visualization, Dashboarding, and Model Prototyping**.  
 
 ---
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
 
 ## 🛠 Skills & Tools  
 
-### 👨‍💻 Programming & Data Analysis  
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)  
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-purple?logo=pandas)  
-![NumPy](https://img.shields.io/badge/Numpy-Linear%20Algebra-orange?logo=numpy)  
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-ML-yellow?logo=scikitlearn)  
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20MySQL%20%7C%20BigQuery-blue?logo=postgresql)  
+**Languages & Libraries**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![Numpy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)  
 
-### 📊 Data Visualization & BI  
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)  
-![Power BI](https://img.shields.io/badge/PowerBI-Business%20Intelligence-yellow?logo=powerbi)  
-![Looker Studio](https://img.shields.io/badge/LookerStudio-Visualization-orange?logo=google)  
-![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-green?logo=plotly)  
+**Visualization & BI**  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)  
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=google&logoColor=white)  
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)  
 
-### 🗄️ Data Handling & Storage  
-![Excel](https://img.shields.io/badge/Excel-Advanced%20Formulas%20%7C%20Pivot-yellowgreen?logo=microsoft-excel)  
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data%20Handling-lightgreen?logo=googlesheets)  
-![BigQuery](https://img.shields.io/badge/BigQuery-Data%20Warehouse-blue?logo=googlecloud)  
-
-### 🔬 Others  
+**Others**  
 - 📈 Statistics & Hypothesis Testing  
-- 🧹 Exploratory Data Analysis (EDA)  
+- 🧹 Data Cleaning & Preprocessing  
 - 🤖 Machine Learning Basics (Classification, Regression)  
-- ⚙️ ETL & Automation (Airflow, Python Scripts)  
+- ⚙️ ETL & Automation  
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
-
-## 📊 My Workflow as a Data Analyst  
-
-1. 🧭 **Business Understanding** – Define the problem & KPIs with stakeholders.  
-2. 📥 **Data Collection** – Gather data from databases, APIs, or CSV/Excel.  
-3. 🧹 **Data Cleaning** – Handle missing values, duplicates, and data types.  
-4. 🔍 **EDA** – Explore trends, outliers, and relationships.  
-5. 🤖 **Modeling / Analysis** – Apply statistical tests or predictive models.  
-6. 📊 **Visualization & Reporting** – Build dashboards & present insights.  
-
----
-
-## 📈 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xxvlrapss&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -75,24 +50,27 @@ My approach combines **technical skills** in data manipulation, visualization, a
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dimas%20Prayoga-blue?logo=linkedin)](https://www.linkedin.com/in/dimas-prayogaa/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Dimas%20Prayoga-blue?logo=kaggle)](https://www.kaggle.com/dimasprayoga)  
-[![Email](https://img.shields.io/badge/Email-dimassprayoga08%40gmail.com-red?logo=gmail)](mailto:dimassprayoga08@gmail.com)  
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xxvlrapss&label=Profile%20Views&color=00bfa6&style=flat-square" alt="profile views" />
+  <a href="https://www.linkedin.com/in/dimas-prayogaa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dimas%20Prayoga-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:dimassprayoga08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.kaggle.com/dimasprayoga">
+    <img src="https://img.shields.io/badge/Kaggle-Dimas%20Prayoga-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/dimas.prayoga7117">
+    <img src="https://img.shields.io/badge/Tableau-Portfolio-E97627?logo=tableau&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-<!-- 🐍 Snake Animation (aktifkan GitHub Action dulu) -->
-<!--
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xxvlrapss/xxvlrapss/output/snake.svg" alt="snake animation"/>
+  <img src="https://komarev.com/ghpvc/?username=xxvlrapss&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
--->
 
-💡 *"In God we trust, all others bring data." – W. Edwards Deming*  
+---
+
 🔥 *Fortis Fortuna Adiuvat*  
