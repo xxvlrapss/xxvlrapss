@@ -27,22 +27,28 @@ My approach combines **technical skills** in data manipulation, visualization, a
 ## 🛠 Skills & Tools  
 
 ### 👨‍💻 Programming & Data Analysis  
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)  
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-purple?logo=pandas)  
-![NumPy](https://img.shields.io/badge/Numpy-Linear%20Algebra-orange?logo=numpy)  
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-ML-yellow?logo=scikitlearn)  
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20MySQL%20%7C%20BigQuery-blue?logo=postgresql)  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ### 📊 Data Visualization & BI  
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)  
-![Power BI](https://img.shields.io/badge/PowerBI-Business%20Intelligence-yellow?logo=powerbi)  
-![Looker Studio](https://img.shields.io/badge/LookerStudio-Visualization-orange?logo=google)  
-![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-green?logo=plotly)  
+<p>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
 
 ### 🗄️ Data Handling & Storage  
-![Excel](https://img.shields.io/badge/Excel-Advanced%20Formulas%20%7C%20Pivot-yellowgreen?logo=microsoft-excel)  
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data%20Handling-lightgreen?logo=googlesheets)  
-![BigQuery](https://img.shields.io/badge/BigQuery-Data%20Warehouse-blue?logo=googlecloud)  
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
 
 ### 🔬 Others  
 - 📈 Statistics & Hypothesis Testing  
