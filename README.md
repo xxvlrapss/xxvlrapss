@@ -52,15 +52,6 @@ My approach combines **technical skills** in data manipulation, visualization, a
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
-
-## 🏆 GitHub Trophy (animated-like)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xxvlrapss&theme=onestar&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
----
-
 ## 📊 My Workflow as a Data Analyst  
 
 1. 🧭 **Business Understanding** – Define the problem & KPIs with stakeholders.  
