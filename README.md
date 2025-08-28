@@ -1,6 +1,10 @@
 # Hi there, I'm Dimas Prayoga 👋  
 **📊 Data Analyst | 🔍 Business Insight Explorer | ⚡ Data-Driven Problem Solver**
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=00BFA6&center=true&vCenter=true&width=700&lines=Dimas+Prayoga+%7C+Data+Analyst;Turning+data+into+business+impact;EDA+%7C+BI+Dashboard+%7C+ML+Basics" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 🚀 About Me  
