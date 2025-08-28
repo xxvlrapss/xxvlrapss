@@ -95,12 +95,6 @@ My approach combines **technical skills** in data manipulation, visualization, a
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xxvlrapss&label=Profile%20Views&color=00bfa6&style=flat-square" alt="profile views" />
-</p>
-
----
-
 <!-- 🐍 Snake Animation (optional: requires workflow, see note below) -->
 <!--
 <p align="center">
