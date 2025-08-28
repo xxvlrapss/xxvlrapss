@@ -85,6 +85,10 @@ My approach combines **technical skills** in data manipulation, visualization, a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxvlrapss&theme=react-dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xxvlrapss&label=Profile%20Views&color=00bfa6&style=flat-square" alt="profile views" />
+</p>
+
 ---
 
 ## 📫 Connect with Me  
@@ -95,12 +99,6 @@ My approach combines **technical skills** in data manipulation, visualization, a
 
 ---
 
-<!-- 🐍 Snake Animation (optional: requires workflow, see note below) -->
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xxvlrapss/xxvlrapss/output/snake.svg" alt="snake animation"/>
-</p>
--->
 
 💡 *"In God we trust, all others bring data." – W. Edwards Deming*  
 🔥 *Fortis Fortuna Adiuvat*  
